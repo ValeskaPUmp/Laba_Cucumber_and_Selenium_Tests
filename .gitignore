@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/UI/target/
+/University/target/
+/UtilsforUniversity/target/
